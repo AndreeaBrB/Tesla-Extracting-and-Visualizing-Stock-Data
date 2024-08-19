@@ -1,1 +1,3 @@
 # Tesla-Extracting-and-Visualizing-Stock-Data
+
+This project involves extracting and visualizing Tesla's historical stock price and quarterly revenue data. Using the yfinance library, the project retrieves Tesla's stock data, while revenue data is scraped from the Macrotrends website using requests and BeautifulSoup. The project then utilizes Plotly to create an interactive, two-panel graph that displays Tesla's stock prices alongside its revenue over time. This visualization provides a clear view of Tesla's financial performance, enabling users to analyze the relationship between stock market trends and the company's revenue growth.
